@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hello random visitor 
+I am Anurag, an experienced programmer and a very inexperienced human.
 
-<!--
-**anurag-7/anurag-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💤 What I Do
+I am a Student studying Computer Science. I mainly code in Python but dweleve into other languages if given the chance. Currently i'm learning Rust.
 
-Here are some ideas to get you started:
+## 📞 Contact me
+- **Discord**: `anu#1337`
+- **Website**: `Eventually..`
+- **Github**: :/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why are you reading this ?
+I have no idea.
