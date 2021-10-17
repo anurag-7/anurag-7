@@ -6,7 +6,7 @@ I am a Student studying Computer Science. I mainly code in Python but dweleve in
 
 ## 📞 Contact me
 - **Discord**: `anu#1337`
-- **Website**: `Eventually..`
+- **Website**: [clappedstudent.xyz](http://clappedstudent.xyz/)
 - **Github**: :/
 
 ## Why are you reading this ?
