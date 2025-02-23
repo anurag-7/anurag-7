@@ -1,13 +1,8 @@
 ### 👋 Hello random visitor 
-I am Anurag, an experienced programmer and a very inexperienced human.
+I am Anurag, software engineer, snake language enjoyer.
 
 ## 💤 What I Do
-I am a Student studying Computer Science. I mainly code in Python but dweleve into other languages if given the chance. Currently i'm learning Rust.
+I currently work as a mid level software engineer. In my free time I like to research and work on Compilers, LLVM & V8.
 
 ## 📞 Contact me
-- **Discord**: `anu#1337`
-- **Website**: [clappedstudent.xyz](http://clappedstudent.xyz/)
-- **Github**: :/
-
-## Why are you reading this ?
-I have no idea.
+- **Discord**: `anuzz`
